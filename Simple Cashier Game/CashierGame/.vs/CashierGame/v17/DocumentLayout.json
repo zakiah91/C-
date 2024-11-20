@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haqim\\source\\repos\\CashierGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{048A8E20-F4C4-458B-ABF7-567C6A86ACBA}|CashierGame\\CashierGame.csproj|c:\\users\\haqim\\source\\repos\\cashiergame\\cashiergame\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048A8E20-F4C4-458B-ABF7-567C6A86ACBA}|CashierGame\\CashierGame.csproj|solutionrelative:cashiergame\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A8E20-F4C4-458B-ABF7-567C6A86ACBA}|CashierGame\\CashierGame.csproj|c:\\users\\haqim\\source\\repos\\cashiergame\\cashiergame\\cashier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048A8E20-F4C4-458B-ABF7-567C6A86ACBA}|CashierGame\\CashierGame.csproj|solutionrelative:cashiergame\\cashier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A8E20-F4C4-458B-ABF7-567C6A86ACBA}|CashierGame\\CashierGame.csproj|c:\\users\\haqim\\source\\repos\\cashiergame\\cashiergame\\numconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048A8E20-F4C4-458B-ABF7-567C6A86ACBA}|CashierGame\\CashierGame.csproj|solutionrelative:cashiergame\\numconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A8E20-F4C4-458B-ABF7-567C6A86ACBA}|CashierGame\\CashierGame.csproj|c:\\users\\haqim\\source\\repos\\cashiergame\\cashiergame\\cashiergame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{048A8E20-F4C4-458B-ABF7-567C6A86ACBA}|CashierGame\\CashierGame.csproj|solutionrelative:cashiergame\\cashiergame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A8E20-F4C4-458B-ABF7-567C6A86ACBA}|CashierGame\\CashierGame.csproj|c:\\users\\haqim\\source\\repos\\cashiergame\\cashiergame\\stringconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048A8E20-F4C4-458B-ABF7-567C6A86ACBA}|CashierGame\\CashierGame.csproj|solutionrelative:cashiergame\\stringconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A8E20-F4C4-458B-ABF7-567C6A86ACBA}|CashierGame\\CashierGame.csproj|C:\\Users\\haqim\\source\\repos\\CashierGame\\cashiergame\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{048A8E20-F4C4-458B-ABF7-567C6A86ACBA}|CashierGame\\CashierGame.csproj|solutionrelative:cashiergame\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CashierGame.csproj",
+              "DocumentMoniker": "C:\\Users\\haqim\\source\\repos\\CashierGame\\CashierGame\\CashierGame.csproj",
+              "RelativeDocumentMoniker": "CashierGame\\CashierGame.csproj",
+              "ToolTip": "C:\\Users\\haqim\\source\\repos\\CashierGame\\CashierGame\\CashierGame.csproj",
+              "RelativeToolTip": "CashierGame\\CashierGame.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T09:34:07.077Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cashier.cs",
+              "DocumentMoniker": "C:\\Users\\haqim\\source\\repos\\CashierGame\\CashierGame\\Cashier.cs",
+              "RelativeDocumentMoniker": "CashierGame\\Cashier.cs",
+              "ToolTip": "C:\\Users\\haqim\\source\\repos\\CashierGame\\CashierGame\\Cashier.cs",
+              "RelativeToolTip": "CashierGame\\Cashier.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAuwGEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:37:27.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cashier.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\haqim\\source\\repos\\CashierGame\\CashierGame\\Cashier.Designer.cs",
+              "RelativeDocumentMoniker": "CashierGame\\Cashier.Designer.cs",
+              "ToolTip": "C:\\Users\\haqim\\source\\repos\\CashierGame\\CashierGame\\Cashier.Designer.cs",
+              "RelativeToolTip": "CashierGame\\Cashier.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:04:21.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumConstant.cs",
+              "DocumentMoniker": "C:\\Users\\haqim\\source\\repos\\CashierGame\\CashierGame\\NumConstant.cs",
+              "RelativeDocumentMoniker": "CashierGame\\NumConstant.cs",
+              "ToolTip": "C:\\Users\\haqim\\source\\repos\\CashierGame\\CashierGame\\NumConstant.cs",
+              "RelativeToolTip": "CashierGame\\NumConstant.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:31:33.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringConstant.cs",
+              "DocumentMoniker": "C:\\Users\\haqim\\source\\repos\\CashierGame\\CashierGame\\StringConstant.cs",
+              "RelativeDocumentMoniker": "CashierGame\\StringConstant.cs",
+              "ToolTip": "C:\\Users\\haqim\\source\\repos\\CashierGame\\CashierGame\\StringConstant.cs",
+              "RelativeToolTip": "CashierGame\\StringConstant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:59:24.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cashier.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\haqim\\source\\repos\\CashierGame\\CashierGame\\Cashier.cs",
+              "RelativeDocumentMoniker": "CashierGame\\Cashier.cs",
+              "ToolTip": "C:\\Users\\haqim\\source\\repos\\CashierGame\\CashierGame\\Cashier.cs [Design]",
+              "RelativeToolTip": "CashierGame\\Cashier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:58:04.597Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
